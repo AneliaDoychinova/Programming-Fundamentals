@@ -1,0 +1,1 @@
+D:\Documents\Programming Fundamentals Intensive\01. C# Intro and Basic Syntax\Exercises CIntro and BasicSyntax\Exercises CIntro and BasicSyntax\bin\Debug\Exercises CIntro and BasicSyntax.exe.config

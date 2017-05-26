@@ -1,0 +1,6 @@
+D:\Documents\Programming Fundamentals Intensive\01. C# Intro and Basic Syntax\Exercises CIntro and BasicSyntax\Exercises CIntro and BasicSyntax\bin\Debug\Exercises CIntro and BasicSyntax.exe.config
+D:\Documents\Programming Fundamentals Intensive\01. C# Intro and Basic Syntax\Exercises CIntro and BasicSyntax\Exercises CIntro and BasicSyntax\bin\Debug\Exercises CIntro and BasicSyntax.exe
+D:\Documents\Programming Fundamentals Intensive\01. C# Intro and Basic Syntax\Exercises CIntro and BasicSyntax\Exercises CIntro and BasicSyntax\bin\Debug\Exercises CIntro and BasicSyntax.pdb
+D:\Documents\Programming Fundamentals Intensive\01. C# Intro and Basic Syntax\Exercises CIntro and BasicSyntax\Exercises CIntro and BasicSyntax\obj\Debug\01. Debit Card Number.csprojResolveAssemblyReference.cache
+D:\Documents\Programming Fundamentals Intensive\01. C# Intro and Basic Syntax\Exercises CIntro and BasicSyntax\Exercises CIntro and BasicSyntax\obj\Debug\Exercises CIntro and BasicSyntax.exe
+D:\Documents\Programming Fundamentals Intensive\01. C# Intro and Basic Syntax\Exercises CIntro and BasicSyntax\Exercises CIntro and BasicSyntax\obj\Debug\Exercises CIntro and BasicSyntax.pdb

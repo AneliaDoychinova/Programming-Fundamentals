@@ -1,0 +1,5 @@
+D:\Documents\Programming Fundamentals Intensive\01. C# Intro and Basic Syntax\Exercises CIntro and BasicSyntax\04. Beverage Labels\bin\Debug\_04.Beverage_Labels.exe.config
+D:\Documents\Programming Fundamentals Intensive\01. C# Intro and Basic Syntax\Exercises CIntro and BasicSyntax\04. Beverage Labels\bin\Debug\_04.Beverage_Labels.exe
+D:\Documents\Programming Fundamentals Intensive\01. C# Intro and Basic Syntax\Exercises CIntro and BasicSyntax\04. Beverage Labels\bin\Debug\_04.Beverage_Labels.pdb
+D:\Documents\Programming Fundamentals Intensive\01. C# Intro and Basic Syntax\Exercises CIntro and BasicSyntax\04. Beverage Labels\obj\Debug\_04.Beverage_Labels.exe
+D:\Documents\Programming Fundamentals Intensive\01. C# Intro and Basic Syntax\Exercises CIntro and BasicSyntax\04. Beverage Labels\obj\Debug\_04.Beverage_Labels.pdb
