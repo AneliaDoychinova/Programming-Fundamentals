@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Max Sequence of Equal Elements", "01. Max Sequence of Equal Elements\01. Max Sequence of Equal Elements.csproj", "{57758F1E-728F-4574-8AC2-1117898B9E08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Change List", "02. Change List\02. Change List.csproj", "{29C22198-C1FD-419C-B86B-65EB1D14FA77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Search for a Number", "03. Search for a Number\03. Search for a Number.csproj", "{604ADB9F-95BF-4141-89D5-158DB9E6CB81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Longest Increasing Subsequence", "04. Longest Increasing Subsequence\04. Longest Increasing Subsequence.csproj", "{7BA87E9A-5C76-44CB-9973-23623E930C8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Array Manipulator", "05. Array Manipulator\05. Array Manipulator.csproj", "{416D8D46-DF9A-44B6-8DDC-680C426A17A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Sum Reversed Numbers", "06. Sum Reversed Numbers\06. Sum Reversed Numbers.csproj", "{DABC5089-EC13-4048-9CDA-E027D3A7825C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Bomb Numbers", "07. Bomb Numbers\07. Bomb Numbers.csproj", "{B5DEF9D5-D5A3-4C0D-B584-F2F966D4B0EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57758F1E-728F-4574-8AC2-1117898B9E08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57758F1E-728F-4574-8AC2-1117898B9E08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57758F1E-728F-4574-8AC2-1117898B9E08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57758F1E-728F-4574-8AC2-1117898B9E08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29C22198-C1FD-419C-B86B-65EB1D14FA77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29C22198-C1FD-419C-B86B-65EB1D14FA77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29C22198-C1FD-419C-B86B-65EB1D14FA77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29C22198-C1FD-419C-B86B-65EB1D14FA77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{604ADB9F-95BF-4141-89D5-158DB9E6CB81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{604ADB9F-95BF-4141-89D5-158DB9E6CB81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{604ADB9F-95BF-4141-89D5-158DB9E6CB81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{604ADB9F-95BF-4141-89D5-158DB9E6CB81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BA87E9A-5C76-44CB-9973-23623E930C8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BA87E9A-5C76-44CB-9973-23623E930C8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BA87E9A-5C76-44CB-9973-23623E930C8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BA87E9A-5C76-44CB-9973-23623E930C8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{416D8D46-DF9A-44B6-8DDC-680C426A17A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{416D8D46-DF9A-44B6-8DDC-680C426A17A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{416D8D46-DF9A-44B6-8DDC-680C426A17A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{416D8D46-DF9A-44B6-8DDC-680C426A17A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DABC5089-EC13-4048-9CDA-E027D3A7825C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DABC5089-EC13-4048-9CDA-E027D3A7825C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DABC5089-EC13-4048-9CDA-E027D3A7825C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DABC5089-EC13-4048-9CDA-E027D3A7825C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5DEF9D5-D5A3-4C0D-B584-F2F966D4B0EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5DEF9D5-D5A3-4C0D-B584-F2F966D4B0EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5DEF9D5-D5A3-4C0D-B584-F2F966D4B0EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5DEF9D5-D5A3-4C0D-B584-F2F966D4B0EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
