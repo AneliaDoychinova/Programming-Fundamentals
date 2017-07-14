@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Sweet Dessert", "01. Sweet Dessert\01. Sweet Dessert.csproj", "{231FDA3D-0AEB-4A36-9463-F1FA2EE89B24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Array Manipulator", "02. Array Manipulator\02. Array Manipulator.csproj", "{D8EAD037-7DBF-4D56-A29C-8E506893FF5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Football League", "03. Football League\03. Football League.csproj", "{6068DDA3-A49A-4857-BE1A-8F214A089BEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Cubic Messages", "04. Cubic Messages\04. Cubic Messages.csproj", "{39C6155A-178B-4896-9A32-85D354FD1848}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{231FDA3D-0AEB-4A36-9463-F1FA2EE89B24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{231FDA3D-0AEB-4A36-9463-F1FA2EE89B24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{231FDA3D-0AEB-4A36-9463-F1FA2EE89B24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{231FDA3D-0AEB-4A36-9463-F1FA2EE89B24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8EAD037-7DBF-4D56-A29C-8E506893FF5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8EAD037-7DBF-4D56-A29C-8E506893FF5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8EAD037-7DBF-4D56-A29C-8E506893FF5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8EAD037-7DBF-4D56-A29C-8E506893FF5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6068DDA3-A49A-4857-BE1A-8F214A089BEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6068DDA3-A49A-4857-BE1A-8F214A089BEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6068DDA3-A49A-4857-BE1A-8F214A089BEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6068DDA3-A49A-4857-BE1A-8F214A089BEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39C6155A-178B-4896-9A32-85D354FD1848}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39C6155A-178B-4896-9A32-85D354FD1848}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39C6155A-178B-4896-9A32-85D354FD1848}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39C6155A-178B-4896-9A32-85D354FD1848}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

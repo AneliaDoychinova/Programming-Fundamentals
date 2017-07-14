@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Sino The Walker", "01. Sino The Walker\01. Sino The Walker.csproj", "{1CA81464-ADCF-4E99-A2D6-D7AB9953133A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. SoftUni Karaoke", "02. SoftUni Karaoke\02. SoftUni Karaoke.csproj", "{48DF10BE-1BD8-44AE-87B6-01A9722E7006}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Endurance Rally", "03. Endurance Rally\03. Endurance Rally.csproj", "{CC63F1A1-9747-4EFD-97B2-3F82264F26F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Winning Ticket", "04. Winning Ticket\04. Winning Ticket.csproj", "{945A79FE-BA91-4213-AE70-16DEDE0C4E70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CA81464-ADCF-4E99-A2D6-D7AB9953133A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CA81464-ADCF-4E99-A2D6-D7AB9953133A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CA81464-ADCF-4E99-A2D6-D7AB9953133A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CA81464-ADCF-4E99-A2D6-D7AB9953133A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48DF10BE-1BD8-44AE-87B6-01A9722E7006}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48DF10BE-1BD8-44AE-87B6-01A9722E7006}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48DF10BE-1BD8-44AE-87B6-01A9722E7006}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48DF10BE-1BD8-44AE-87B6-01A9722E7006}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC63F1A1-9747-4EFD-97B2-3F82264F26F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC63F1A1-9747-4EFD-97B2-3F82264F26F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC63F1A1-9747-4EFD-97B2-3F82264F26F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC63F1A1-9747-4EFD-97B2-3F82264F26F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{945A79FE-BA91-4213-AE70-16DEDE0C4E70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{945A79FE-BA91-4213-AE70-16DEDE0C4E70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{945A79FE-BA91-4213-AE70-16DEDE0C4E70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{945A79FE-BA91-4213-AE70-16DEDE0C4E70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
